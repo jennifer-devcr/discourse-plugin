@@ -1,14 +1,22 @@
 import { on } from 'ember-addons/ember-computed-decorators';
+import Composer from 'discourse/models/composer';
 
 export default {
 	name: 'replaceactors',
 	
 	initialize(container) {
-		alert('Hello!');
+		//alert('Hello!');
 		console.log('Testing');
-		var buttonView = container.lookupFactory('view:button');
-		var mainButtons = container.lookupFactory('view:topic-footer-main-buttons');
-		console.log('buttonView', buttonView);
-		console.log('mainButtons', mainButtons);
+		
+		if(Composer !== "undefined"){
+			Composer.reopen({
+				actions: {
+					replacename: function (composerView) {
+						alert('Hello!');
+						console.log('on replace name ', composerView);
+					}
+				}
+			});
+		}
 	}
 };

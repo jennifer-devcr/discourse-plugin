@@ -4,17 +4,17 @@ import NewComposer from 'discourse/components/d-editor';
 export default {
 	name: 'replaceactors',
 	
-	/*actions: {
-		replacename: function (composerView) {
-			alert('Hello!');
+	actions: {
+		replacenameTest: function (composerView) {
+			alert('Hello test!');
 			console.log('on replace name ', composerView);
 		}
-	},*/
+	},
 	
 	initialize(container) {
-		console.log('Testing');
+		console.log('Testing 123');
 		
-		NewComposer.reopen({
+		NewComposer.reopenClass({
 			actions: {
 				replacename: function (composerView) {
 					alert('Hello!');

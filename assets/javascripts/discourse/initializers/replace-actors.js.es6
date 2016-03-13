@@ -1,3 +1,5 @@
+import { on } from 'ember-addons/ember-computed-decorators';
+
 export default {
 	name: 'replaceactors',
 	

@@ -9,7 +9,7 @@ export default {
 		console.log('Testing');
 		
 		if(Composer !== "undefined"){
-			Composer.reopen({
+			Composer.reopenClass({
 				actions: {
 					replacename: function (composerView) {
 						alert('Hello!');

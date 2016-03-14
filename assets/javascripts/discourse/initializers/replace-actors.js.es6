@@ -1,9 +1,17 @@
-import { on } from 'ember-addons/ember-computed-decorators';
-
 export default {
 	name: 'replaceactors',
 	
-	initialize(container) {
-		console.log('Testing 1234');		
+	initialize: function(container, application) {
+		console.log('Testing 5');	
+		var ApplicationController = container.lookupFactory("controller:application");	
+		
+		ApplicationController.reopen({
+			actions: {
+				replaceNameOnCreateTopic: function () {
+					alert('Hello!');
+					console.log('on replace name ');
+				}
+			}
+		});
 	}
 };

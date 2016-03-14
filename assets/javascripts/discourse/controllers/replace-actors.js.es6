@@ -1,7 +1,7 @@
 export default Ember.Controller.extend({
 	actions: {
-		replacename: function () {
-			alert('Hello!');
+		replacenameTest: function () {
+			alert('Hello Test!');
 			console.log('on replace name ');
 		}
 	}

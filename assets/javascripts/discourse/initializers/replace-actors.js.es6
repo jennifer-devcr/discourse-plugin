@@ -1,3 +1,5 @@
+import showModal from 'discourse/lib/show-modal';
+
 export default {
 	name: 'replaceactors',
 	
@@ -8,7 +10,7 @@ export default {
 		ApplicationController.reopen({
 			actions: {
 				replaceNameOnCreateTopic: function () {
-					alert('Hello!');
+					showModal('replaceactors');
 					console.log('on replace name ');
 				}
 			}

@@ -10,7 +10,7 @@ export default {
 		ApplicationController.reopen({
 			actions: {
 				replaceNameOnCreateTopic: function () {
-					showModal('replaceactors');
+					showModal('replace-actors');
 					console.log('on replace name ');
 				}
 			}

@@ -20,12 +20,13 @@ export default {
 					// Clean name input
 					$nameTxt.val('');
 						
-					$switcheroo.find('.btn.cancel').off('click').click(function(){
+					$switcheroo.find('.btn.cancel').off('click').click(function(event){
 						// Close switcheroo
 						$switcheroo.hide();
+						event.preventDefault()
 					});
 					
-					$switcheroo.find('.btn.save').off('click').click(function(){
+					$switcheroo.find('.btn.save').off('click').click(function(event){
 						// Apply changes to editor
 						var name = $nameTxt.val(),
 							hero = 'Brad Pitt';
@@ -33,11 +34,14 @@ export default {
 						if(name && name.length > 0){
 							var regex = new RegExp(name, 'g');
 							console.log(editorTxt);
-							editorTxt.replace(regex, hero);
+							editorTxt = editorTxt.replace(regex, hero);
+							$editor.val(editorTxt);
 							console.log(editorTxt);
 							// Close switcheroo
 							$switcheroo.hide();
-						}						
+						}	
+
+						event.preventDefault()						
 					});
 					
 					

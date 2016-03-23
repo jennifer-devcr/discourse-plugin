@@ -1,1 +1,19 @@
-<button id="btn-replace-name" class="btn" {{action 'replaceNameOnCreateTopic'}}>Replace Name</button>
+<button id="btn-replace-name" class="btn" {{action 'replaceNameOnCreateTopic'}}>Switcheroo</button>
+
+<div id="switcheroo" style="display:none;">
+	<p class="txt">Use switcheroo to switch the name to an actor/actress you despise</p>
+	<div class="left-leave">
+		<input class="name-txt" type="text" placeholder="Enter name to activate Switcheroo">
+	</div>
+	<div class="right-leave">
+		<input type="radio" name="opt" value="list" checked> Select an actor from list.<br>
+		<div class="hero-list">
+			hi
+		</div>
+		<input type="radio" name="opt" value="input"> Enter a name.<br>
+		<div class="btns">
+			<button type="button" class="btn save">Save</button>
+			<button type="button" class="btn cancel">Cancel</button>
+		</div>
+	</div>
+</div>

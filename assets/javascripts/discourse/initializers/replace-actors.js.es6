@@ -4,7 +4,7 @@ export default {
 	name: 'replaceactors',
 	
 	initialize: function(container, application) {
-		console.log('Testing 6');	
+		console.log('Testing 7');	
 		var ApplicationController = container.lookupFactory("controller:application");	
 		
 		ApplicationController.reopen({
@@ -16,12 +16,12 @@ export default {
 						$editor = $('.d-editor-input'),
 						editorTxt = $editor.val();
 						
-					$switcheroo.find('btn.cancel').click(function(){
+					$switcheroo.find('.btn.cancel').click(function(){
 						// Close switcheroo
 						$switcheroo.hide();
 					});
 					
-					$switcheroo.find('btn.save').click(function(){
+					$switcheroo.find('.btn.save').click(function(){
 						// Apply changes to editor
 						var name = $switcheroo.find('.name-txt').val(),
 							hero = 'Brad Pitt';

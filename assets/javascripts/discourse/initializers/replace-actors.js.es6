@@ -22,16 +22,18 @@ export default {
 								$editor = $('.d-editor-input'),
 								$nameTxt = $switcheroo.find('.name-txt'),
 								$opt1 = $switcheroo.find('#opt1'),
-								$opt2 = $switcheroo.find('#opt2'),						
+								$opt2 = $switcheroo.find('#opt2'),	
+								$heroTxt = $switcheroo.find('.hero-txt'),		
+								$list = $switcheroo.find('.hero-list'),						
 								editorTxt = $editor.val();
 								
-							// Clean name input
+							// Clean fields
 							$nameTxt.val('');
+							$list.hide();
+							$heroTxt.hide().val('');
 							
 							$opt1.off('change').change(function(){
-								console.log(this);
-								var $list = $switcheroo.find('.hero-list');
-								
+								console.log(this);								
 								if(this.checked){
 									$list.show();
 								} else {
@@ -40,13 +42,11 @@ export default {
 							});
 							
 							$opt2.off('change').change(function(){
-								console.log(this);
-								var $heroTxt = $switcheroo.find('.hero-txt');
-								
+								console.log($heroTxt);
 								if(this.checked){
 									$heroTxt.show();
 								} else {
-									$heroTxt.hide();
+									$heroTxt.hide().val('');
 								}
 							});
 								

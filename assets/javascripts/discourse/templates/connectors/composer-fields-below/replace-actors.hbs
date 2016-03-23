@@ -6,12 +6,12 @@
 		<input class="name-txt" type="text" placeholder="Enter name to activate Switcheroo">
 	</div>
 	<div class="right-leave">
-		<input type="radio" name="opt" value="list" checked> Select an actor from list.<br>
-		<div class="hero-list">
+		<input id="opt1" type="radio" name="opt" value="list" checked> Select an actor from list.<br>
+		<div class="hero-list" style="display:none;">
 			hi <img src="/plugins/replace-actors/images/JohnnyDepp.jpg" style="width:20px; height:20px">
 		</div>
-		<input type="radio" name="opt" value="input"> Enter a name.<br>
-		<input class="hero-txt" type="text">
+		<input id="opt2" type="radio" name="opt" value="input"> Enter a name.<br>
+		<input class="hero-txt" type="text" style="display:none;">
 		<div class="btns">
 			<button type="button" class="btn save">Save</button>
 			<button type="button" class="btn cancel">Cancel</button>

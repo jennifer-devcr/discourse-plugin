@@ -21,10 +21,34 @@ export default {
 							var $switcheroo = $('#switcheroo'),
 								$editor = $('.d-editor-input'),
 								$nameTxt = $switcheroo.find('.name-txt'),
+								$opt1 = $switcheroo.find('#opt1'),
+								$opt2 = $switcheroo.find('#opt2'),						
 								editorTxt = $editor.val();
 								
 							// Clean name input
 							$nameTxt.val('');
+							
+							$opt1.off('change').change(function(){
+								console.log(this);
+								var $list = $switcheroo.find('.hero-list');
+								
+								if(this.checked){
+									$list.show();
+								} else {
+									$list.hide();
+								}
+							});
+							
+							$opt2.off('change').change(function(){
+								console.log(this);
+								var $heroTxt = $switcheroo.find('.hero-txt');
+								
+								if(this.checked){
+									$heroTxt.show();
+								} else {
+									$heroTxt.hide();
+								}
+							});
 								
 							$switcheroo.find('.btn.cancel').off('click').click(function(event){
 								// Close switcheroo

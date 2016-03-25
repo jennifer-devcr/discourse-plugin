@@ -33,4 +33,19 @@
 	.hero-txt {
 		width: 125px;
 	}
+	
+	.hero-list {
+		.selected {
+			background: #D1F0FF;
+		}
+		
+		img, span {
+			display: inline-block;
+		}
+		
+		img {
+			width: 25px;
+			height: 30px;
+		}
+	}
 }

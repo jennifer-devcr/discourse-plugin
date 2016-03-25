@@ -25,7 +25,20 @@ export default {
 								$opt2 = $switcheroo.find('#opt2'),	
 								$heroTxt = $switcheroo.find('.hero-txt'),		
 								$list = $switcheroo.find('.hero-list'),						
-								editorTxt = $editor.val();
+								editorTxt = $editor.val(),
+								listHeros = '';
+								
+							// Add heros to list
+							res.forEach(function(h){
+								var hero = '<div class="hero" data-name="'+ h.Name +'"><img src="'+ h.imgsrc +'"><span>'+ h.Name +'</span></div>'
+								listHeros += hero;
+							});
+							
+							$list.empty().html(listHeros);
+							$list.find('.hero').click(function(){
+								$list.find('.hero').removeClass('selected');
+								$(this).addClass('selected');
+							});
 								
 							// Clean fields
 							$nameTxt.val('');
@@ -66,7 +79,9 @@ export default {
 									hero;
 									
 								if(isOpt1) {
-									console.log('is opt1');
+									var $h = $list.find('.hero.selected');
+									if($h) hero = $h.attr('data-name') || '';
+									console.log('is opt1 ', hero);
 									
 								}else if(isOpt2) {
 									console.log('is opt2');
@@ -80,6 +95,8 @@ export default {
 									$editor.val(editorTxt).trigger("change");
 									
 									// Close switcheroo
+									if($opt1[0]) $opt1[0].checked = false;
+									if($opt2[0]) $opt2[0].checked = false;
 									$switcheroo.hide();
 								}	
 

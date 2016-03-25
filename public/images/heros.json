@@ -1,602 +1,302 @@
 [
   
   {
-    "position": 1,
-    "const": "nm0000136",
-    "created": "Thu May 23 20:45:33 2013",
-    "modified": "Thu May 23 20:57:33 2013",
-    "description": 0,
-    "Name": "Johnny Depp",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0099487/\">Edward Scissorhands</a>",
-    "Birth date (month/day/year)": "6/9/1963",
+    "position": 1,    
+    "Name": "Johnny Depp",    
 	"imgsrc": "/plugins/replace-actors/heros-img/JohnnyDepp.jpg"
   },
   
   {
-    "position": 2,
-    "const": "nm0000199",
-    "created": "Thu May 23 20:45:57 2013",
-    "modified": "Thu May 23 20:57:38 2013",
-    "description": 0,
-    "Name": "Al Pacino",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0068646/\">The Godfather</a>",
-    "Birth date (month/day/year)": "4/25/1940",
+    "position": 2,    
+    "Name": "Al Pacino",    
 	"imgsrc": "/plugins/replace-actors/heros-img/AlPacino.jpg"
   },
   
   {
-    "position": 3,
-    "const": "nm0000134",
-    "created": "Thu May 23 20:46:36 2013",
-    "modified": "Thu May 23 20:57:48 2013",
-    "description": 0,
-    "Name": "Robert De Niro",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0099685/\">Goodfellas</a>",
-    "Birth date (month/day/year)": "8/17/1943",
+    "position": 3,   
+    "Name": "Robert De Niro",    
 	"imgsrc": "/plugins/replace-actors/heros-img/RobertDeNiro.jpg"
   },
   
   {
     "position": 4,
-    "const": "nm0000228",
-    "created": "Thu May 23 20:55:28 2013",
-    "modified": "Thu May 23 20:59:27 2013",
-    "description": "He always is My favorite",
     "Name": "Kevin Spacey",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0169547/\">American Beauty</a>",
-    "Birth date (month/day/year)": "7/26/1959",
 	"imgsrc": "/plugins/replace-actors/heros-img/KevinSpacey.jpg"
   },
   
   {
     "position": 5,
-    "const": "nm0000243",
-    "created": "Thu May 23 21:00:42 2013",
-    "modified": "Thu May 23 21:01:04 2013",
-    "description": 0,
     "Name": "Denzel Washington",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0139654/\">Training Day</a>",
-    "Birth date (month/day/year)": "12/28/1954",
 	"imgsrc": "/plugins/replace-actors/heros-img/DenzelWashington.jpg"
   },
   
   {
     "position": 6,
-    "const": "nm0000128",
-    "created": "Thu May 23 21:01:45 2013",
-    "modified": "Thu May 23 21:01:45 2013",
-    "description": 0,
     "Name": "Russell Crowe",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0172495/\">Gladiator</a>",
-    "Birth date (month/day/year)": "4/7/1964",
 	"imgsrc": "/plugins/replace-actors/heros-img/RussellCrowe.jpg"
   },
   
   {
     "position": 7,
-    "const": "nm0000093",
-    "created": "Thu May 23 21:02:04 2013",
-    "modified": "Thu May 23 21:02:04 2013",
-    "description": 0,
     "Name": "Brad Pitt",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0361748/\">Inglourious Basterds</a>",
-    "Birth date (month/day/year)": "12/18/1963",
 	"imgsrc": "/plugins/replace-actors/heros-img/BradPitt.jpg"
   },
   
   {
     "position": 8,
-    "const": "nm0001401",
-    "created": "Thu May 23 21:02:21 2013",
-    "modified": "Thu May 23 21:02:21 2013",
-    "description": 0,
     "Name": "Angelina Jolie",
-    "Known for": "Actress, <a href=\"http://www.imdb.com/title/tt1587310/\">Maleficent</a>",
-    "Birth date (month/day/year)": "6/4/1975",
 	"imgsrc": "/plugins/replace-actors/heros-img/AngelinaJolie.jpg"
   },
   
   {
     "position": 9,
-    "const": "nm0000138",
-    "created": "Thu May 23 21:03:03 2013",
-    "modified": "Thu May 23 21:03:03 2013",
-    "description": 0,
     "Name": "Leonardo DiCaprio",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt1375666/\">Inception</a>",
-    "Birth date (month/day/year)": "11/11/1974",
 	"imgsrc": "/plugins/replace-actors/heros-img/LeonardoDiCaprio.jpg"
   },
   
   {
     "position": 10,
-    "const": "nm0000129",
-    "created": "Thu May 23 21:03:29 2013",
-    "modified": "Thu May 23 21:03:29 2013",
-    "description": 0,
     "Name": "Tom Cruise",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0092099/\">Top Gun</a>",
-    "Birth date (month/day/year)": "7/3/1962",
 	"imgsrc": "/plugins/replace-actors/heros-img/TomCruise.jpg"
   },
   
   {
     "position": 11,
-    "const": "nm0000237",
-    "created": "Thu May 23 21:04:30 2013",
-    "modified": "Thu May 23 21:04:30 2013",
-    "description": 0,
     "Name": "John Travolta",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0110912/\">Pulp Fiction</a>",
-    "Birth date (month/day/year)": "2/18/1954",
 	"imgsrc": "/plugins/replace-actors/heros-img/JohnTravolta.jpg"
   },
   
   {
     "position": 12,
-    "const": "nm0000216",
-    "created": "Thu May 23 21:05:53 2013",
-    "modified": "Thu May 23 21:05:53 2013",
-    "description": 0,
     "Name": "Arnold Schwarzenegger",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0088247/\">The Terminator</a>",
-    "Birth date (month/day/year)": "7/30/1947",
 	"imgsrc": "/plugins/replace-actors/heros-img/ArnoldSchwarzenegger.jpg"
   },
   
   {
     "position": 13,
-    "const": "nm0000230",
-    "created": "Thu May 23 21:06:39 2013",
-    "modified": "Thu May 23 21:06:39 2013",
-    "description": 0,
     "Name": "Sylvester Stallone",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0075148/\">Rocky</a>",
-    "Birth date (month/day/year)": "7/6/1946",
 	"imgsrc": "/plugins/replace-actors/heros-img/SylvesterStallone.jpg"
   },
   
   {
     "position": 14,
-    "const": "nm0000701",
-    "created": "Thu May 23 21:06:55 2013",
-    "modified": "Thu May 23 21:06:55 2013",
-    "description": 0,
     "Name": "Kate Winslet",
-    "Known for": "Actress, <a href=\"http://www.imdb.com/title/tt0120338/\">Titanic</a>",
-    "Birth date (month/day/year)": "10/5/1975",
 	"imgsrc": "/plugins/replace-actors/heros-img/KateWinslet.jpg"
   },
   
   {
     "position": 15,
-    "const": "nm0000288",
-    "created": "Thu May 23 21:07:14 2013",
-    "modified": "Thu May 23 21:07:14 2013",
-    "description": 0,
     "Name": "Christian Bale",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0468569/\">The Dark Knight</a>",
-    "Birth date (month/day/year)": "1/30/1974",
 	"imgsrc": "/plugins/replace-actors/heros-img/ChristianBale.jpg"
   },
   
   {
     "position": 16,
-    "const": "nm0000151",
-    "created": "Thu May 23 21:07:29 2013",
-    "modified": "Thu May 23 21:07:29 2013",
-    "description": 0,
     "Name": "Morgan Freeman",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0111161/\">The Shawshank Redemption</a>",
-    "Birth date (month/day/year)": "6/1/1937",
 	"imgsrc": "/plugins/replace-actors/heros-img/MorganFreeman.jpg"
   },
   
   {
     "position": 17,
-    "const": "nm0000206",
-    "created": "Thu May 23 21:07:55 2013",
-    "modified": "Thu May 23 21:07:55 2013",
-    "description": 0,
     "Name": "Keanu Reeves",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0133093/\">The Matrix</a>",
-    "Birth date (month/day/year)": "9/2/1964",
 	"imgsrc": "/plugins/replace-actors/heros-img/KeanuReeves.jpg"
   },
   
   {
     "position": 18,
-    "const": "nm0000115",
-    "created": "Thu May 23 21:08:15 2013",
-    "modified": "Thu May 23 21:08:15 2013",
-    "description": 0,
     "Name": "Nicolas Cage",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0113627/\">Leaving Las Vegas</a>",
-    "Birth date (month/day/year)": "1/7/1964",
 	"imgsrc": "/plugins/replace-actors/heros-img/NicolasCage.jpg"
   },
   
   {
     "position": 19,
-    "const": "nm0413168",
-    "created": "Thu May 23 21:08:37 2013",
-    "modified": "Thu May 23 21:08:37 2013",
-    "description": 0,
     "Name": "Hugh Jackman",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0482571/\">The Prestige</a>",
-    "Birth date (month/day/year)": "10/12/1968",
 	"imgsrc": "/plugins/replace-actors/heros-img/HughJackman.jpg"
   },
   
   {
     "position": 20,
-    "const": "nm0001570",
-    "created": "Thu May 23 21:08:51 2013",
-    "modified": "Thu May 23 21:08:51 2013",
-    "description": 0,
     "Name": "Edward Norton",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0137523/\">Fight Club</a>",
-    "Birth date (month/day/year)": "8/18/1969",
 	"imgsrc": "/plugins/replace-actors/heros-img/EdwardNorton.jpg"
   },
   
   {
     "position": 21,
-    "const": "nm0000246",
-    "created": "Thu May 23 21:09:28 2013",
-    "modified": "Thu May 23 21:09:28 2013",
-    "description": 0,
     "Name": "Bruce Willis",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0167404/\">The Sixth Sense</a>",
-    "Birth date (month/day/year)": "3/19/1955",
 	"imgsrc": "/plugins/replace-actors/heros-img/BruceWillis.jpg"
   },
   
   {
     "position": 22,
-    "const": "nm0000158",
-    "created": "Thu May 23 21:09:46 2013",
-    "modified": "Thu May 23 21:09:46 2013",
-    "description": 0,
     "Name": "Tom Hanks",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0382625/\">The Da Vinci Code</a>",
-    "Birth date (month/day/year)": "7/9/1956",
 	"imgsrc": "/plugins/replace-actors/heros-img/TomHanks.jpg"
   },
   
   {
     "position": 23,
-    "const": "nm0000234",
-    "created": "Thu May 23 21:10:04 2013",
-    "modified": "Thu May 23 21:10:04 2013",
-    "description": 0,
     "Name": "Charlize Theron",
-    "Known for": "Actress, <a href=\"http://www.imdb.com/title/tt1392190/\">Mad Max: Fury Road</a>",
-    "Birth date (month/day/year)": "8/7/1975",
 	"imgsrc": "/plugins/replace-actors/heros-img/CharlizeTheron.jpg"
   },
   
   {
     "position": 24,
-    "const": "nm0000226",
-    "created": "Thu May 23 21:10:18 2013",
-    "modified": "Thu May 23 21:10:18 2013",
-    "description": 0,
     "Name": "Will Smith",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0119654/\">Men in Black</a>",
-    "Birth date (month/day/year)": "9/25/1968",
 	"imgsrc": "/plugins/replace-actors/heros-img/WillSmith.jpg"
   },
   
   {
     "position": 25,
-    "const": "nm0000125",
-    "created": "Thu May 23 21:11:41 2013",
-    "modified": "Thu May 23 21:11:41 2013",
-    "description": 0,
     "Name": "Sean Connery",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0055928/\">Dr. No</a>",
-    "Birth date (month/day/year)": "8/25/1930",
 	"imgsrc": "/plugins/replace-actors/heros-img/SeanConnery.jpg"
   },
   
   {
     "position": 26,
-    "const": "nm0461136",
-    "created": "Thu May 23 21:12:32 2013",
-    "modified": "Thu May 23 21:12:32 2013",
-    "description": 0,
     "Name": "Keira Knightley",
-    "Known for": "Actress, <a href=\"http://www.imdb.com/title/tt0325980/\">Pirates of the Caribbean: The Curse of the Black Pearl</a>",
-    "Birth date (month/day/year)": "3/26/1985",
 	"imgsrc": "/plugins/replace-actors/heros-img/KeiraKnightley.jpg"
   },
   
   {
     "position": 27,
-    "const": "nm0004874",
-    "created": "Thu May 23 21:12:52 2013",
-    "modified": "Thu May 23 21:12:52 2013",
-    "description": 0,
     "Name": "Vin Diesel",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt1905041/\">Fast & Furious 6</a>",
-    "Birth date (month/day/year)": "7/18/1967",
 	"imgsrc": "/plugins/replace-actors/heros-img/VinDiesel.jpg"
   },
   
   {
     "position": 28,
-    "const": "nm0000354",
-    "created": "Thu May 23 21:13:39 2013",
-    "modified": "Thu May 23 21:13:39 2013",
-    "description": 0,
     "Name": "Matt Damon",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0258463/\">The Bourne Identity</a>",
-    "Birth date (month/day/year)": "10/8/1970",
 	"imgsrc": "/plugins/replace-actors/heros-img/MattDamon.jpg"
   },
   
   {
     "position": 29,
-    "const": "nm0000152",
-    "created": "Thu May 23 21:14:12 2013",
-    "modified": "Thu May 23 21:14:12 2013",
-    "description": 0,
     "Name": "Richard Gere",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0100405/\">Pretty Woman</a>",
-    "Birth date (month/day/year)": "8/31/1949",
 	"imgsrc": "/plugins/replace-actors/heros-img/RichardGere.jpg"
   },
   
   {
     "position": 30,
-    "const": "nm0001876",
-    "created": "Thu May 23 21:14:43 2013",
-    "modified": "Thu May 23 21:14:43 2013",
-    "description": 0,
     "Name": "Catherine Zeta-Jones",
-    "Known for": "Actress, <a href=\"http://www.imdb.com/title/tt0299658/\">Chicago</a>",
-    "Birth date (month/day/year)": "9/25/1969",
 	"imgsrc": "/plugins/replace-actors/heros-img/CatherineZeta-Jones.jpg"
   },
   
   {
     "position": 31,
-    "const": "nm0654110",
-    "created": "Thu May 23 21:15:16 2013",
-    "modified": "Thu May 23 21:15:16 2013",
-    "description": 0,
     "Name": "Clive Owen",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0206634/\">Children of Men</a>",
-    "Birth date (month/day/year)": "10/3/1964",
 	"imgsrc": "/plugins/replace-actors/heros-img/CliveOwen.jpg"
   },
   
   {
     "position": 32,
-    "const": "nm0000154",
-    "created": "Thu May 23 21:15:31 2013",
-    "modified": "Thu May 23 21:15:31 2013",
-    "description": 0,
     "Name": "Mel Gibson",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0112573/\">Braveheart</a>",
-    "Birth date (month/day/year)": "1/3/1956",
 	"imgsrc": "/plugins/replace-actors/heros-img/MelGibson.jpg"
   },
   
   {
     "position": 33,
-    "const": "nm0000123",
-    "created": "Thu May 23 21:16:10 2013",
-    "modified": "Thu May 23 21:16:10 2013",
-    "description": 0,
     "Name": "George Clooney",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt1454468/\">Gravity</a>",
-    "Birth date (month/day/year)": "5/6/1961",
 	"imgsrc": "/plugins/replace-actors/heros-img/GeorgeClooney.jpg"
   },
   
   {
     "position": 34,
-    "const": "nm0000197",
-    "created": "Thu May 23 21:16:32 2013",
-    "modified": "Thu May 23 21:16:32 2013",
-    "description": 0,
     "Name": "Jack Nicholson",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0081505/\">The Shining</a>",
-    "Birth date (month/day/year)": "4/22/1937",
 	"imgsrc": "/plugins/replace-actors/heros-img/JackNicholson.jpg"
   },
   
   {
     "position": 35,
-    "const": "nm0424060",
-    "created": "Thu May 23 21:17:18 2013",
-    "modified": "Thu May 23 21:17:18 2013",
-    "description": 0,
     "Name": "Scarlett Johansson",
-    "Known for": "Actress, <a href=\"http://www.imdb.com/title/tt0335266/\">Lost in Translation</a>",
-    "Birth date (month/day/year)": "11/22/1984",
 	"imgsrc": "/plugins/replace-actors/heros-img/ScarlettJohansson.jpg"
   },
   
   {
     "position": 36,
-    "const": "nm0362766",
-    "created": "Thu May 23 21:17:39 2013",
-    "modified": "Thu May 23 21:17:39 2013",
-    "description": 0,
     "Name": "Tom Hardy",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt1392190/\">Mad Max: Fury Road</a>",
-    "Birth date (month/day/year)": "9/15/1977",
 	"imgsrc": "/plugins/replace-actors/heros-img/TomHardy.jpg"
   },
   
   {
     "position": 37,
-    "const": "nm0000375",
-    "created": "Thu May 23 21:17:52 2013",
-    "modified": "Thu May 23 21:17:52 2013",
-    "description": 0,
     "Name": "Robert Downey Jr",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0848228/\">The Avengers</a>",
-    "Birth date (month/day/year)": "4/4/1965",
 	"imgsrc": "/plugins/replace-actors/heros-img/RobertDowneyJr.jpg"
   },
   
   {
     "position": 38,
-    "const": "nm0089217",
-    "created": "Thu May 23 21:18:16 2013",
-    "modified": "Thu May 23 21:18:16 2013",
-    "description": 0,
     "Name": "Orlando Bloom",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0325980/\">Pirates of the Caribbean: The Curse of the Black Pearl</a>",
-    "Birth date (month/day/year)": "1/13/1977",
 	"imgsrc": "/plugins/replace-actors/heros-img/OrlandoBloom.jpg"
   },
   
   {
     "position": 39,
-    "const": "nm0005212",
-    "created": "Thu May 23 21:18:43 2013",
-    "modified": "Thu May 23 21:18:43 2013",
-    "description": 0,
     "Name": "Ian McKellen",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0120737/\">The Lord of the Rings: The Fellowship of the Ring</a>",
-    "Birth date (month/day/year)": "5/25/1939",
 	"imgsrc": "/plugins/replace-actors/heros-img/IanMcKellen.jpg"
   },
   
   {
     "position": 40,
-    "const": "nm0000104",
-    "created": "Thu May 23 21:19:32 2013",
-    "modified": "Thu May 23 21:19:32 2013",
-    "description": 0,
     "Name": "Antonio Banderas",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0112851/\">Desperado</a>",
-    "Birth date (month/day/year)": "8/10/1960",
 	"imgsrc": "/plugins/replace-actors/heros-img/AntonioBanderas.jpg"
   },
   
   {
     "position": 41,
-    "const": "nm0001602",
-    "created": "Thu May 23 21:20:12 2013",
-    "modified": "Thu May 23 21:20:12 2013",
-    "description": 0,
     "Name": "Guy Pearce",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0209144/\">Memento</a>",
-    "Birth date (month/day/year)": "10/5/1967",
 	"imgsrc": "/plugins/replace-actors/heros-img/GuyPearce.jpg"
   },
   
   {
     "position": 42,
-    "const": "nm0000168",
-    "created": "Thu May 23 21:20:32 2013",
-    "modified": "Thu May 23 21:20:32 2013",
-    "description": 0,
     "Name": "Samuel L. Jackson",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0110912/\">Pulp Fiction</a>",
-    "Birth date (month/day/year)": "12/21/1948",
 	"imgsrc": "/plugins/replace-actors/heros-img/SamuelL.Jackson.jpg"
   },
   
   {
     "position": 43,
-    "const": "nm0000113",
-    "created": "Thu May 23 21:21:07 2013",
-    "modified": "Thu May 23 21:21:07 2013",
-    "description": 0,
     "Name": "Sandra Bullock",
-    "Known for": "Actress, <a href=\"http://www.imdb.com/title/tt1454468/\">Gravity</a>",
-    "Birth date (month/day/year)": "7/26/1964",
 	"imgsrc": "/plugins/replace-actors/heros-img/SandraBullock.jpg"
   },
   
   {
     "position": 44,
-    "const": "nm0000212",
-    "created": "Thu May 23 21:22:45 2013",
-    "modified": "Thu May 23 21:22:45 2013",
-    "description": 0,
     "Name": "Meg Ryan",
-    "Known for": "Actress, <a href=\"http://www.imdb.com/title/tt0108160/\">Sleepless in Seattle</a>",
-    "Birth date (month/day/year)": "11/19/1961",
 	"imgsrc": "/plugins/replace-actors/heros-img/MegRyan.jpg"
   },
   
   {
     "position": 45,
-    "const": "nm1083271",
-    "created": "Thu May 23 21:22:53 2013",
-    "modified": "Thu May 23 21:22:53 2013",
-    "description": 0,
     "Name": "Megan Fox",
-    "Known for": "Actress, <a href=\"http://www.imdb.com/title/tt0418279/\">Transformers</a>",
-    "Birth date (month/day/year)": "5/16/1986",
 	"imgsrc": "/plugins/replace-actors/heros-img/MeganFox.jpg"
   },
   
   {
     "position": 46,
-    "const": "nm0000173",
-    "created": "Thu May 23 21:23:53 2013",
-    "modified": "Thu May 23 21:23:53 2013",
-    "description": 0,
     "Name": "Nicole Kidman",
-    "Known for": "Actress, <a href=\"http://www.imdb.com/title/tt0203009/\">Moulin Rouge!</a>",
-    "Birth date (month/day/year)": "6/20/1967",
 	"imgsrc": "/plugins/replace-actors/heros-img/NicoleKidman.jpg"
   },
   
   {
     "position": 47,
-    "const": "nm0124930",
-    "created": "Thu May 23 21:33:54 2013",
-    "modified": "Thu May 23 21:33:54 2013",
-    "description": 0,
     "Name": "Gerard Butler",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0416449/\">300</a>",
-    "Birth date (month/day/year)": "11/13/1969",
 	"imgsrc": "/plugins/replace-actors/heros-img/GerardButler.jpg"
   },
   
   {
     "position": 48,
-    "const": "nm0048932",
-    "created": "Thu May 23 21:34:27 2013",
-    "modified": "Thu May 23 21:34:27 2013",
-    "description": 0,
     "Name": "Simon Baker",
-    "Known for": "Actor, <a href=\"http://www.imdb.com/title/tt0458352/\">The Devil Wears Prada</a>",
-    "Birth date (month/day/year)": "7/30/1969",
 	"imgsrc": "/plugins/replace-actors/heros-img/SimonBaker.jpg"
   },
   
   {
     "position": 49,
-    "const": "nm0000139",
-    "created": "Thu May 23 21:34:47 2013",
-    "modified": "Thu May 23 21:34:47 2013",
-    "description": 0,
     "Name": "Cameron Diaz",
-    "Known for": "Actress, <a href=\"http://www.imdb.com/title/tt0129387/\">There's Something About Mary</a>",
-    "Birth date (month/day/year)": "8/30/1972",
 	"imgsrc": "/plugins/replace-actors/heros-img/CameronDiaz.jpg"
   },
   
   {
     "position": 50,
-    "const": "nm0001337",
-    "created": "Thu May 23 21:35:05 2013",
-    "modified": "Thu May 23 21:35:05 2013",
-    "description": 0,
     "Name": "Katherine Heigl",
-    "Known for": "Actress, <a href=\"http://www.imdb.com/title/tt0478311/\">Knocked Up</a>",
-    "Birth date (month/day/year)": "11/24/1978",
 	"imgsrc": "/plugins/replace-actors/heros-img/KatherineHeigl.jpg"
   }
 ]

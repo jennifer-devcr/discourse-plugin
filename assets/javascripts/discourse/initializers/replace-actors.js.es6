@@ -50,8 +50,10 @@ export default {
 								}
 							});
 								
-							$switcheroo.find('.btn.cancel').off('click').click(function(event){
+							$switcheroo.find('.btn.cancel').off('click').click(function(event){						
 								// Close switcheroo
+								$opt1.checked = false;
+								$opt2.checked = false;
 								$switcheroo.hide();
 								event.preventDefault()
 							});
@@ -64,11 +66,13 @@ export default {
 									hero = '';
 									
 								if(isOpt1) {
-									
+									console.log('is opt1');
 								}else if(isOpt2) {
+									console.log('is opt2');
 									name = $heroTxt.val('') || '';
+									console.log('is opt2 name ', name);
 								}
-								
+								console.log($opt1, $opt2, $opt1[0], $opt2[0], name);
 								if(name && name.length > 0){
 									var regex = new RegExp(name, 'g');									
 									editorTxt = editorTxt.replace(regex, hero);

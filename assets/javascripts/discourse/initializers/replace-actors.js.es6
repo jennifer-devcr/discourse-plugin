@@ -33,7 +33,7 @@ export default {
 							$heroTxt.hide().val('');
 							
 							$opt1.off('change').change(function(){
-								console.log(this);								
+								$heroTxt.hide().val('');							
 								if(this.checked){
 									$list.show();
 								} else {
@@ -42,7 +42,7 @@ export default {
 							});
 							
 							$opt2.off('change').change(function(){
-								console.log($heroTxt);
+								$list.hide();
 								if(this.checked){
 									$heroTxt.show();
 								} else {
@@ -59,7 +59,15 @@ export default {
 							$switcheroo.find('.btn.save').off('click').click(function(event){
 								// Apply changes to editor
 								var name = $nameTxt.val(),
-									hero = 'Brad Pitt';
+									isOpt1 = $opt1[0] && $opt1[0].checked,
+									isOpt2 = $opt2[0] && $opt2[0].checked,
+									hero = '';
+									
+								if(isOpt1) {
+									
+								}else if(isOpt2) {
+									name = $heroTxt.val('') || '';
+								}
 								
 								if(name && name.length > 0){
 									var regex = new RegExp(name, 'g');									

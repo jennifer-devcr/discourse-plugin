@@ -52,8 +52,8 @@ export default {
 								
 							$switcheroo.find('.btn.cancel').off('click').click(function(event){						
 								// Close switcheroo
-								$opt1.checked = false;
-								$opt2.checked = false;
+								if($opt1[0]) $opt1[0].checked = false;
+								if($opt2[0]) $opt2[0].checked = false;
 								$switcheroo.hide();
 								event.preventDefault()
 							});
@@ -63,17 +63,18 @@ export default {
 								var name = $nameTxt.val(),
 									isOpt1 = $opt1[0] && $opt1[0].checked,
 									isOpt2 = $opt2[0] && $opt2[0].checked,
-									hero = '';
+									hero;
 									
 								if(isOpt1) {
 									console.log('is opt1');
+									
 								}else if(isOpt2) {
 									console.log('is opt2');
-									name = $heroTxt.val('') || '';
+									hero = $heroTxt.val() || '';
 									console.log('is opt2 name ', name);
 								}
-								console.log($opt1, $opt2, $opt1[0], $opt2[0], name);
-								if(name && name.length > 0){
+								
+								if(name && name.length > 0 && hero && hero.length > 0){
 									var regex = new RegExp(name, 'g');									
 									editorTxt = editorTxt.replace(regex, hero);
 									$editor.val(editorTxt).trigger("change");

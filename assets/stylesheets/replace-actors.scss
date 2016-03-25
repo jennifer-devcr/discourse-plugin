@@ -35,6 +35,16 @@
 	}
 	
 	.hero-list {
+	    max-height: 200px;
+		overflow: auto;
+		margin-bottom: 10px;
+		border: 1px solid #02A8F9;
+		padding: 5px;
+		
+		.hero {
+			margin-bottom: 5px;
+		}
+	
 		.selected {
 			background: #D1F0FF;
 		}
@@ -46,6 +56,7 @@
 		img {
 			width: 25px;
 			height: 30px;
+			margin-right: 5px;
 		}
 	}
 }

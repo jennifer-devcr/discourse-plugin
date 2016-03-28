@@ -46,7 +46,8 @@ export default {
 							$heroTxt.hide().val('');
 							
 							$opt1.off('change').change(function(){
-								$heroTxt.hide().val('');							
+								$heroTxt.hide().val('');
+								
 								if(this.checked){
 									$list.show();
 								} else {
@@ -56,6 +57,8 @@ export default {
 							
 							$opt2.off('change').change(function(){
 								$list.hide();
+								$list.find('.hero').removeClass('selected');
+								
 								if(this.checked){
 									$heroTxt.show();
 								} else {

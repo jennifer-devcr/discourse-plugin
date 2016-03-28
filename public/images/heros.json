@@ -3,300 +3,300 @@
   {
     "position": 1,    
     "Name": "Johnny Depp",    
-	"imgsrc": "/plugins/replace-actors/heros-img/JohnnyDepp.jpg"
+	"imgsrc": "/plugins/replace-actors/images/JohnnyDepp.jpg"
   },
   
   {
     "position": 2,    
     "Name": "Al Pacino",    
-	"imgsrc": "/plugins/replace-actors/heros-img/AlPacino.jpg"
+	"imgsrc": "/plugins/replace-actors/images/AlPacino.jpg"
   },
   
   {
     "position": 3,   
     "Name": "Robert De Niro",    
-	"imgsrc": "/plugins/replace-actors/heros-img/RobertDeNiro.jpg"
+	"imgsrc": "/plugins/replace-actors/images/RobertDeNiro.jpg"
   },
   
   {
     "position": 4,
     "Name": "Kevin Spacey",
-	"imgsrc": "/plugins/replace-actors/heros-img/KevinSpacey.jpg"
+	"imgsrc": "/plugins/replace-actors/images/KevinSpacey.jpg"
   },
   
   {
     "position": 5,
     "Name": "Denzel Washington",
-	"imgsrc": "/plugins/replace-actors/heros-img/DenzelWashington.jpg"
+	"imgsrc": "/plugins/replace-actors/images/DenzelWashington.jpg"
   },
   
   {
     "position": 6,
     "Name": "Russell Crowe",
-	"imgsrc": "/plugins/replace-actors/heros-img/RussellCrowe.jpg"
+	"imgsrc": "/plugins/replace-actors/images/RussellCrowe.jpg"
   },
   
   {
     "position": 7,
     "Name": "Brad Pitt",
-	"imgsrc": "/plugins/replace-actors/heros-img/BradPitt.jpg"
+	"imgsrc": "/plugins/replace-actors/images/BradPitt.jpg"
   },
   
   {
     "position": 8,
     "Name": "Angelina Jolie",
-	"imgsrc": "/plugins/replace-actors/heros-img/AngelinaJolie.jpg"
+	"imgsrc": "/plugins/replace-actors/images/AngelinaJolie.jpg"
   },
   
   {
     "position": 9,
     "Name": "Leonardo DiCaprio",
-	"imgsrc": "/plugins/replace-actors/heros-img/LeonardoDiCaprio.jpg"
+	"imgsrc": "/plugins/replace-actors/images/LeonardoDiCaprio.jpg"
   },
   
   {
     "position": 10,
     "Name": "Tom Cruise",
-	"imgsrc": "/plugins/replace-actors/heros-img/TomCruise.jpg"
+	"imgsrc": "/plugins/replace-actors/images/TomCruise.jpg"
   },
   
   {
     "position": 11,
     "Name": "John Travolta",
-	"imgsrc": "/plugins/replace-actors/heros-img/JohnTravolta.jpg"
+	"imgsrc": "/plugins/replace-actors/images/JohnTravolta.jpg"
   },
   
   {
     "position": 12,
     "Name": "Arnold Schwarzenegger",
-	"imgsrc": "/plugins/replace-actors/heros-img/ArnoldSchwarzenegger.jpg"
+	"imgsrc": "/plugins/replace-actors/images/ArnoldSchwarzenegger.jpg"
   },
   
   {
     "position": 13,
     "Name": "Sylvester Stallone",
-	"imgsrc": "/plugins/replace-actors/heros-img/SylvesterStallone.jpg"
+	"imgsrc": "/plugins/replace-actors/images/SylvesterStallone.jpg"
   },
   
   {
     "position": 14,
     "Name": "Kate Winslet",
-	"imgsrc": "/plugins/replace-actors/heros-img/KateWinslet.jpg"
+	"imgsrc": "/plugins/replace-actors/images/KateWinslet.jpg"
   },
   
   {
     "position": 15,
     "Name": "Christian Bale",
-	"imgsrc": "/plugins/replace-actors/heros-img/ChristianBale.jpg"
+	"imgsrc": "/plugins/replace-actors/images/ChristianBale.jpg"
   },
   
   {
     "position": 16,
     "Name": "Morgan Freeman",
-	"imgsrc": "/plugins/replace-actors/heros-img/MorganFreeman.jpg"
+	"imgsrc": "/plugins/replace-actors/images/MorganFreeman.jpg"
   },
   
   {
     "position": 17,
     "Name": "Keanu Reeves",
-	"imgsrc": "/plugins/replace-actors/heros-img/KeanuReeves.jpg"
+	"imgsrc": "/plugins/replace-actors/images/KeanuReeves.jpg"
   },
   
   {
     "position": 18,
     "Name": "Nicolas Cage",
-	"imgsrc": "/plugins/replace-actors/heros-img/NicolasCage.jpg"
+	"imgsrc": "/plugins/replace-actors/images/NicolasCage.jpg"
   },
   
   {
     "position": 19,
     "Name": "Hugh Jackman",
-	"imgsrc": "/plugins/replace-actors/heros-img/HughJackman.jpg"
+	"imgsrc": "/plugins/replace-actors/images/HughJackman.jpg"
   },
   
   {
     "position": 20,
     "Name": "Edward Norton",
-	"imgsrc": "/plugins/replace-actors/heros-img/EdwardNorton.jpg"
+	"imgsrc": "/plugins/replace-actors/images/EdwardNorton.jpg"
   },
   
   {
     "position": 21,
     "Name": "Bruce Willis",
-	"imgsrc": "/plugins/replace-actors/heros-img/BruceWillis.jpg"
+	"imgsrc": "/plugins/replace-actors/images/BruceWillis.jpg"
   },
   
   {
     "position": 22,
     "Name": "Tom Hanks",
-	"imgsrc": "/plugins/replace-actors/heros-img/TomHanks.jpg"
+	"imgsrc": "/plugins/replace-actors/images/TomHanks.jpg"
   },
   
   {
     "position": 23,
     "Name": "Charlize Theron",
-	"imgsrc": "/plugins/replace-actors/heros-img/CharlizeTheron.jpg"
+	"imgsrc": "/plugins/replace-actors/images/CharlizeTheron.jpg"
   },
   
   {
     "position": 24,
     "Name": "Will Smith",
-	"imgsrc": "/plugins/replace-actors/heros-img/WillSmith.jpg"
+	"imgsrc": "/plugins/replace-actors/images/WillSmith.jpg"
   },
   
   {
     "position": 25,
     "Name": "Sean Connery",
-	"imgsrc": "/plugins/replace-actors/heros-img/SeanConnery.jpg"
+	"imgsrc": "/plugins/replace-actors/images/SeanConnery.jpg"
   },
   
   {
     "position": 26,
     "Name": "Keira Knightley",
-	"imgsrc": "/plugins/replace-actors/heros-img/KeiraKnightley.jpg"
+	"imgsrc": "/plugins/replace-actors/images/KeiraKnightley.jpg"
   },
   
   {
     "position": 27,
     "Name": "Vin Diesel",
-	"imgsrc": "/plugins/replace-actors/heros-img/VinDiesel.jpg"
+	"imgsrc": "/plugins/replace-actors/images/VinDiesel.jpg"
   },
   
   {
     "position": 28,
     "Name": "Matt Damon",
-	"imgsrc": "/plugins/replace-actors/heros-img/MattDamon.jpg"
+	"imgsrc": "/plugins/replace-actors/images/MattDamon.jpg"
   },
   
   {
     "position": 29,
     "Name": "Richard Gere",
-	"imgsrc": "/plugins/replace-actors/heros-img/RichardGere.jpg"
+	"imgsrc": "/plugins/replace-actors/images/RichardGere.jpg"
   },
   
   {
     "position": 30,
     "Name": "Catherine Zeta-Jones",
-	"imgsrc": "/plugins/replace-actors/heros-img/CatherineZeta-Jones.jpg"
+	"imgsrc": "/plugins/replace-actors/images/CatherineZetaJones.jpg"
   },
   
   {
     "position": 31,
     "Name": "Clive Owen",
-	"imgsrc": "/plugins/replace-actors/heros-img/CliveOwen.jpg"
+	"imgsrc": "/plugins/replace-actors/images/CliveOwen.jpg"
   },
   
   {
     "position": 32,
     "Name": "Mel Gibson",
-	"imgsrc": "/plugins/replace-actors/heros-img/MelGibson.jpg"
+	"imgsrc": "/plugins/replace-actors/images/MelGibson.jpg"
   },
   
   {
     "position": 33,
     "Name": "George Clooney",
-	"imgsrc": "/plugins/replace-actors/heros-img/GeorgeClooney.jpg"
+	"imgsrc": "/plugins/replace-actors/images/GeorgeClooney.jpg"
   },
   
   {
     "position": 34,
     "Name": "Jack Nicholson",
-	"imgsrc": "/plugins/replace-actors/heros-img/JackNicholson.jpg"
+	"imgsrc": "/plugins/replace-actors/images/JackNicholson.jpg"
   },
   
   {
     "position": 35,
     "Name": "Scarlett Johansson",
-	"imgsrc": "/plugins/replace-actors/heros-img/ScarlettJohansson.jpg"
+	"imgsrc": "/plugins/replace-actors/images/ScarlettJohansson.jpg"
   },
   
   {
     "position": 36,
     "Name": "Tom Hardy",
-	"imgsrc": "/plugins/replace-actors/heros-img/TomHardy.jpg"
+	"imgsrc": "/plugins/replace-actors/images/TomHardy.jpg"
   },
   
   {
     "position": 37,
     "Name": "Robert Downey Jr",
-	"imgsrc": "/plugins/replace-actors/heros-img/RobertDowneyJr.jpg"
+	"imgsrc": "/plugins/replace-actors/images/RobertDowneyJr.jpg"
   },
   
   {
     "position": 38,
     "Name": "Orlando Bloom",
-	"imgsrc": "/plugins/replace-actors/heros-img/OrlandoBloom.jpg"
+	"imgsrc": "/plugins/replace-actors/images/OrlandoBloom.jpg"
   },
   
   {
     "position": 39,
     "Name": "Ian McKellen",
-	"imgsrc": "/plugins/replace-actors/heros-img/IanMcKellen.jpg"
+	"imgsrc": "/plugins/replace-actors/images/IanMcKellen.jpg"
   },
   
   {
     "position": 40,
     "Name": "Antonio Banderas",
-	"imgsrc": "/plugins/replace-actors/heros-img/AntonioBanderas.jpg"
+	"imgsrc": "/plugins/replace-actors/images/AntonioBanderas.jpg"
   },
   
   {
     "position": 41,
     "Name": "Guy Pearce",
-	"imgsrc": "/plugins/replace-actors/heros-img/GuyPearce.jpg"
+	"imgsrc": "/plugins/replace-actors/images/GuyPearce.jpg"
   },
   
   {
     "position": 42,
     "Name": "Samuel L. Jackson",
-	"imgsrc": "/plugins/replace-actors/heros-img/SamuelL.Jackson.jpg"
+	"imgsrc": "/plugins/replace-actors/images/SamuelLJackson.jpg"
   },
   
   {
     "position": 43,
     "Name": "Sandra Bullock",
-	"imgsrc": "/plugins/replace-actors/heros-img/SandraBullock.jpg"
+	"imgsrc": "/plugins/replace-actors/images/SandraBullock.jpg"
   },
   
   {
     "position": 44,
     "Name": "Meg Ryan",
-	"imgsrc": "/plugins/replace-actors/heros-img/MegRyan.jpg"
+	"imgsrc": "/plugins/replace-actors/images/MegRyan.jpg"
   },
   
   {
     "position": 45,
     "Name": "Megan Fox",
-	"imgsrc": "/plugins/replace-actors/heros-img/MeganFox.jpg"
+	"imgsrc": "/plugins/replace-actors/images/MeganFox.jpg"
   },
   
   {
     "position": 46,
     "Name": "Nicole Kidman",
-	"imgsrc": "/plugins/replace-actors/heros-img/NicoleKidman.jpg"
+	"imgsrc": "/plugins/replace-actors/images/NicoleKidman.jpg"
   },
   
   {
     "position": 47,
     "Name": "Gerard Butler",
-	"imgsrc": "/plugins/replace-actors/heros-img/GerardButler.jpg"
+	"imgsrc": "/plugins/replace-actors/images/GerardButler.jpg"
   },
   
   {
     "position": 48,
     "Name": "Simon Baker",
-	"imgsrc": "/plugins/replace-actors/heros-img/SimonBaker.jpg"
+	"imgsrc": "/plugins/replace-actors/images/SimonBaker.jpg"
   },
   
   {
     "position": 49,
     "Name": "Cameron Diaz",
-	"imgsrc": "/plugins/replace-actors/heros-img/CameronDiaz.jpg"
+	"imgsrc": "/plugins/replace-actors/images/CameronDiaz.jpg"
   },
   
   {
     "position": 50,
     "Name": "Katherine Heigl",
-	"imgsrc": "/plugins/replace-actors/heros-img/KatherineHeigl.jpg"
+	"imgsrc": "/plugins/replace-actors/images/KatherineHeigl.jpg"
   }
 ]

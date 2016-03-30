@@ -93,7 +93,7 @@ export default {
 								}
 								
 								if(name && name.length > 0 && hero && hero.length > 0){
-									var regex = new RegExp(name, 'g');									
+									var regex = new RegExp(name, 'ig');									
 									editorTxt = editorTxt.replace(regex, hero);
 									$editor.val(editorTxt).trigger("change");
 									
